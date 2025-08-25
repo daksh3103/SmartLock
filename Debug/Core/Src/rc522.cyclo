@@ -1,0 +1,12 @@
+../Core/Src/rc522.c:13:13:RC522_WriteReg	1
+../Core/Src/rc522.c:22:16:RC522_ReadReg	1
+../Core/Src/rc522.c:32:13:RC522_SetBitMask	1
+../Core/Src/rc522.c:35:13:RC522_ClearBitMask	1
+../Core/Src/rc522.c:40:13:RC522_CalculateCRC	4
+../Core/Src/rc522.c:59:16:MFRC522_ToCard	16
+../Core/Src/rc522.c:127:6:MFRC522_Reset	1
+../Core/Src/rc522.c:131:6:MFRC522_AntennaOn	2
+../Core/Src/rc522.c:138:6:MFRC522_Init	1
+../Core/Src/rc522.c:158:9:MFRC522_Request	3
+../Core/Src/rc522.c:174:9:MFRC522_Anticoll	4
+../Core/Src/rc522.c:201:9:MFRC522_Check	2
